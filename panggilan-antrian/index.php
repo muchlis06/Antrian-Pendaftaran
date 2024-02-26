@@ -223,7 +223,7 @@
           },
         ],
         "order": [
-          [0, "desc"]             // urutkan data berdasarkan "no_antrian" secara descending
+          [0, "asc"]             // urutkan data berdasarkan "no_antrian" secara ascending
         ],
         "iDisplayLength": 10,     // tampilkan 10 data per halaman
       });
