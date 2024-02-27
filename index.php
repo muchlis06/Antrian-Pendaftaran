@@ -41,14 +41,6 @@
 <body class="d-flex flex-column h-100">
   <main class="flex-shrink-0">
     <div class="container pt-5">
-      <!-- tampilkan pesan selamat datang -->
-      <div class="alert alert-light d-flex align-items-center mb-5" role="alert">
-        <i class="bi-info-circle text-success me-3 fs-3"></i>
-        <div>
-          Selamat Datang di <strong>Aplikasi Antrian Berbasis Web</strong>. Silahkan pilih halaman yang ingin ditampilkan.
-        </div>
-      </div>
-
       <div class="row gx-5">
         <!-- link halaman nomor antrian -->
         <div class="col-lg-6 mb-4">
